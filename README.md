@@ -3,4 +3,4 @@ blockchain playground
 
 ## tx deserialize
 
-## ecdsa decription
+## ecdsa description
